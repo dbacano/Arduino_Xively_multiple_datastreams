@@ -1,4 +1,4 @@
-Arduino_Xively_multiple_datastreams
+Arduino Xively multiple datastreams
 ===================================
 
-Arduino_Xively_multiple_datastreams
+
