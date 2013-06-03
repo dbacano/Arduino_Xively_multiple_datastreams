@@ -44,14 +44,14 @@ const unsigned long connectionInterval = 10000;      // delay between connecting
 // Newer Ethernet shields have a MAC address printed on a sticker on the shield
 // fill in your address here:
 byte mac[] = { 
-  0x90, 0xA2, 0xDA, 0x0D, 0xB0, 0x1A};
+  0xAA, 0xAA, 0xAA, 0xAA, 0xAA, 0xAA};
 
 // fill in an available IP address on your network here,
 // for manual configuration:
 
 // cosmKey
 
-char cosmKey[] = "r-C4hhdbQ0t_Mp6sOrvqJVYkNj-SAKw3ZnB2TmRlUWNYMD0g";
+char cosmKey[] = "place key here";
 
 // Define the strings for our datastream IDs
 // Create the 8 feeds
