@@ -7,4 +7,6 @@ Currently has:
 
 1 Voltage sensor
 4 current sensors: 
+    source: http://www.pololu.com/catalog/product/1187
 1 temperature sensor:
+    source: http://datasheets.maximintegrated.com/en/ds/DS18B20.pdf
