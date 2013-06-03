@@ -3,7 +3,7 @@ Arduino Xively multiple datastreams
 
 Application that post multiple datastreams of sensor data from an Arduino to a Pachube/Cosm/Xively account.
 
-Currently has:
+Currently it has the following sensors:
 
 1 Voltage sensor
 4 current sensors: 
